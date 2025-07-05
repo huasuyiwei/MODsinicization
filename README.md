@@ -7,7 +7,7 @@
 [NOS官方网址，NOS也叫nebula on the ship！！！](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
 ### 我不是[NOS官方！！！](https://github.com/Dolly1016/Nebula?tab=readme-ov-file) 
 [NOS官方网址，NOS也叫nebula on the ship！！！](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
-# nebula on the ship
+# Nebula On The Ship
 此模组不隶属于游戏Among Us 或 Innersloth LLC，其中包含的内容未得到 Innersloth LLC 的认可或以其他方式赞助。此处包含的部分材料是 Innersloth LLC. ©
 # 导入方法
 可以通过安装程序进行安装。在安装时，需要拥有Among Us。可从这里下载。 NoS 安装程序链接： 
