@@ -1,5 +1,5 @@
 # 声明
-我只是把NOS官方的话翻译了一下，写进这里的，我并非是[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)我只是自创汉化的，如果需要寻找[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)请去[nebula on the ship官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)并且这个README中所给出的所有链接都是NOS官方的，此外README中除了声明是以我的视角，其余都是以[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)视角写的，另外此稿子仅由我一人编写。如果侵权请联系我再次声明我不是[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
+我（花苏易蔚，声明中简称我）只是把NOS官方的话翻译了一下，写进这里的，我并非是[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)我只是自创汉化的，如果需要寻找[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)请去[nebula on the ship官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)并且这个README中所给出的所有链接都是NOS官方的，此外README中除了声明是以我的视角，其余都是以[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)视角写的，另外此稿子仅由我一人编写。如果侵权请联系我再次声明我不是[NOS官方](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
 ### 注：如果发现蓝色字体，不要惊慌那是内含链接的字体，蓝色字体是链接的介绍，左键一下就跳转到里面内含链接
 ### 我不是[NOS官方！！！](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
 [NOS官方网址，NOS也叫nebula on the ship！！！](https://github.com/Dolly1016/Nebula?tab=readme-ov-file)
